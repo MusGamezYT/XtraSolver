@@ -44,4 +44,5 @@
 ## 🧩 Troubleshooting
 - Ensure Tampermonkey and the script are both enabled  
 - Clear your browser cache if the script doesn’t load  
-- Replace your old script if a new version is released  
+- Replace your old script if a new version is released
+- Refresh XtraMath
