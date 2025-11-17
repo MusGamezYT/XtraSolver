@@ -1,0 +1,62 @@
+<html>
+    <head>
+            <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+            <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+
+        
+    <script>
+function myFunction() {
+  var x = document.getElementById("text");
+  var video = document.getElementById("ivideo");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    video.style.display = "none";
+  } else {
+    x.style.display = "none";
+    video.style.display = "block";
+  }
+}
+</script>
+        <div class="navbar">
+            <a href="index.html">Home</a>
+            <a href="download.html">Download</a>
+            <a href="https://github.com/MusGamezYT/XtraMath-AutoSolver">Github</a>
+        </div>
+        
+        
+        
+        <br>
+        <br>
+
+        <h1 style="text-align: center; font-family: 'Ubuntu', sans-serif;">We help children</h1>
+        
+        <button onclick="myFunction()" style="background-color: #ef9b00; width: 40%; outline: 5px solid #ef9b00; border-radius: 45px; border: none; justify-content: center;" >Issues with video? Click here</button>
+        <br>
+
+        <video width="420" height="280" controls style="border-radius: 24px; justify-content: center;" id="ivideo">
+          <source src="DownloadInstructions.mp4" type="video/mp4">
+        Whoops! You cant watch this video because your browser doesent support it
+        </video>
+
+        <div id="text" style="display: none;">
+        <h2 style="font-family: 'Ubuntu', sans-serif;">First download <a href="https://www.tampermonkey.net/index.php">tamper monkey from the web store</a></h2>
+        <h2 style="font-family: 'Ubuntu', sans-serif;">Then get the script from <a href="https://github.com/MusGamezYT/XtraMath-AutoSolver">Github</a> (COPY IT)</h2>
+        <h2>Go to your downloaded tampermonkey extention and click dashboard</h2>
+        <img src="Monkey.png" style="width: 12%";>
+        <h2>Click the plus button on the website menubar</h2>
+        <h2>Delete all the default code and paste the code you copied before from github</h2>
+        <h2>CLick File > Save</h2>
+        <h2>Then go to your extentions page on chromes top menu bar and right next to tampermonkey they will be 3 dots</h2>
+        <h2>Click it and then click manage extention</h2>
+        <h2> On the page that appears turn on "Allow User Scripts" and restart chrome</h2>
+        <h2>Pin tampermonkey and go to <a href="https://xtramath.org">xtramath.org</a> and go to your practice page</h2>
+        <h2>Then start the quiz and if the tampermonky icon has one below it then that means the script is active</h2>
+        <h2>If its not active try refreshing or re opening xtramath</h2>
+        </div>
+      
+        
+    </body>
+
+</html>
