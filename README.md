@@ -1,20 +1,42 @@
-This script was made to solve xtramath questions automaticly
+📘 Xtramath Auto Solver – Installation Guide
 
-View video instructions to install: https://MusGamezYT.github.io/Xtramath-AutoSolver/download.html
+⚠️ Important: Use responsibly and ensure you have permission. Automating XtraMath may violate their terms of service.
 
-Website: https://MusGamezYT.github.io/Xtramath-AutoSolver
+🔗 Resources:
+- Video Instructions: https://MusGamezYT.github.io/Xtramath-AutoSolver/download.html
+- Script Website: https://MusGamezYT.github.io/Xtramath-AutoSolver
 
-Installation
+🛠️ Installation Steps:
 
-First download tamper monkey from the web store
-Then get the script from Github (COPY IT)
-Go to your downloaded tampermonkey extention and click dashboard
-Click the plus button on the website menubar
-Delete all the default code and paste the code you copied before from github
-CLick File > Save
-Then go to your extentions page on chromes top menu bar and right next to tampermonkey they will be 3 dots
-Click it and then click manage extention
-On the page that appears turn on "Allow User Scripts" and restart chrome
-Pin tampermonkey and go to xtramath.org and go to your practice page
-Then start the quiz and if the tampermonky icon has one below it then that means the script is active
-If its not active try refreshing or re opening xtramath
+1. Install Tampermonkey
+   - Go to your browser’s extension store
+   - Search for “Tampermonkey” and click “Install”
+
+2. Get the Script
+   - Open the GitHub page linked above
+   - Copy the entire script to your clipboard
+
+3. Create a New Script in Tampermonkey
+   - Click the Tampermonkey icon in your browser toolbar
+   - Select “Dashboard”
+   - Click the “+” (New Script) button
+   - Delete default code
+   - Paste the copied script
+   - Go to File > Save (or press Ctrl+S)
+
+4. Enable User Scripts
+   - Go to browser settings > Extensions > Tampermonkey > Manage Extension
+   - Turn on “Allow access to file URLs” and “Allow User Scripts” (if available)
+   - Restart your browser
+
+5. Use the Script on XtraMath
+   - Visit https://xtramath.org and log in
+   - Start a practice session
+   - If the Tampermonkey icon shows a badge (number), the script is active
+   - If not, refresh or reopen the page
+
+🧩 Troubleshooting:
+- Ensure Tampermonkey and the script are both enabled
+- Try clearing your browser cache if it doesn’t load
+- Replace your old script if a new version is released
+
