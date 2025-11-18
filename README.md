@@ -1,48 +1,37 @@
-# 📘 Xtramath Auto Solver – Installation Guide
+# Xtramath auto solver
+This is made to help children to complete xtramath and be very happy
 
-> ⚠️ **Important:** Use responsibly and ensure you have permission. Automating XtraMath may violate their terms of service.
+Website: https://musgamezyt.github.io/XtraMath-AutoSolver/
+
+# Xtramath Auto Solver – Installation Guide
+
+> **Important:** Use this very secretly if you are in school! 
+
+
+## Installation Steps
+
+### 1. Get the latest release
+- Go to the realese page of this repository  
+- Download the latest realese
+
+### 2. Install it on chrome
+- Open google chrome and go to chrome://extentions
+- Enable developer mode (top right)
+- Click load unpacked
+- Select the folder (not inside the folder, just the folder)
+- Now you have sucsessfully installed it!
 
 ---
 
-## 🔗 Resources
-- **Video Instructions:** https://MusGamezYT.github.io/Xtramath-AutoSolver/download.html  
-- **Script Website:** https://MusGamezYT.github.io/Xtramath-AutoSolver
-
----
-
-## 🛠️ Installation Steps
-
-### 1. Install Tampermonkey
-- Go to your browser’s extension/add-on store  
-- Search for **Tampermonkey** and click **Install**
-
-### 2. Get the Script
-- Open the GitHub page linked above  
-- Copy the entire script to your clipboard  
-
-### 3. Create a New Script in Tampermonkey
-- Click the **Tampermonkey** icon in your browser toolbar  
-- Select **Dashboard**  
-- Click the ➕ (**New Script**) button  
-- Delete all the default code  
-- Paste the copied script  
-- Go to **File > Save** (or press `Ctrl + S`)  
-
-### 4. Enable User Scripts
-- Go to your browser’s **Extensions > Tampermonkey > Manage Extension**  
-- Enable **Allow access to file URLs** and **Allow User Scripts** (if available)  
-- Restart your browser
-
-### 5. Using the Script on XtraMath
+## Using the Script on XtraMath
 - Visit https://xtramath.org and log in  
 - Start a practice session  
-- If the Tampermonkey icon has a badge under it, the script is active  
-- If not, refresh or reopen the page  
+- If your questions are solving automaticly, that means it is working 
+- If not, refresh or reopen the page, or refer to the troubleshooting section
 
 ---
 
-## 🧩 Troubleshooting
-- Ensure Tampermonkey and the script are both enabled  
-- Clear your browser cache if the script doesn’t load  
-- Replace your old script if a new version is released
+## Troubleshooting section   
 - Refresh XtraMath
+- Ensure that the extention is enabled (click on it)
+- If your using an unstable build probrably thats the reason
