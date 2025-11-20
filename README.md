@@ -11,8 +11,8 @@ Website: https://musgamezyt.github.io/XtraMath-AutoSolver/
 ## Installation Steps
 
 ### 1. Get the latest release
-- Go to the realese page of this repository  
-- Download the latest realese
+- Go to the release page of this repository  
+- Download the latest release
 
 ### 2. Install it on chrome
 - Open google chrome and go to chrome://extentions
@@ -25,7 +25,7 @@ Website: https://musgamezyt.github.io/XtraMath-AutoSolver/
 
 ## Using the Script on XtraMath
 - Visit https://xtramath.org and log in  
-- Start a practice session  
+- Start a practice session/progress quiz
 - If your questions are solving automaticly, that means it is working 
 - If not, refresh or reopen the page, or refer to the troubleshooting section
 
